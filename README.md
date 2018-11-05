@@ -1,4 +1,6 @@
 # NN_DeepLearning
-Simple image-recognition algorithm. Cats
+- Simple image-recognition algorithm. Cats
+- Logistic Regression - Neural Network
+- Deep Neural Network
+- Application
 
-Logistic Regression - Neural Network
